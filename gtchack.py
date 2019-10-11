@@ -8,6 +8,8 @@ Created on Tue Oct 16 09:28:57 2018
 
 import pandas as pd
 import numpy as np
+import time 
+import sys 
 import matplotlib.pyplot as plt
 %matplotlib
 
